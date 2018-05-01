@@ -1,2 +1,2 @@
 # CPP_Study
-CPP,c++
+C++을 공부하기 위한 깃
